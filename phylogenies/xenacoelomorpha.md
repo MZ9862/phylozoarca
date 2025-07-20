@@ -12,7 +12,7 @@ lang: ja_JP
 <div style="text-align: right;">最終確認：2025年7月20日</div>
 <div style="text-align: right;">ライセンス：<a href = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja">CC BY-NC-SA 4.0</a></div><br>
 
-近年の出版済みの研究から推測される珍無腸形（珍無腸）動物の系統です。  
+近年の出版済みの研究から推測される珍無腸形（珍無腸）動物Xenacoelomorphaの系統です。  
 ページ下部にて、タイトルの和訳付きで参考文献を紹介しています。
 
 <svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 479.69 141.71">
