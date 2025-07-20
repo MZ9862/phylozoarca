@@ -15,7 +15,6 @@ lang: ja_JP
 近年の研究から推測される後生動物Metazoa（動物界Animalia）の系統です。ここでは、現生分類群のみを対象としています。  
 分岐順が不明な箇所は多分岐としています。ページ下部にて、タイトルの和訳付きで参考文献を紹介しています。
 
-<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
