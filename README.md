@@ -8,8 +8,8 @@
 姉妹サイト、[metazoo-jp](https://mz9862.github.io/metazoo-jp/)では、後生動物の初期の系統・進化の研究の最新動向を日本語で紹介しています。こちらについてもよろしくお願いいたします。
 
 ## 系統樹リスト
-[後生動物Metazoa](phylogenies/metazoa.md)
-[珍無腸形動物](phylogenies/xenacoelomorpha.md)
+[後生動物Metazoa](phylogenies/metazoa.md)  
+[珍無腸形動物Xenacoelomorpha](phylogenies/xenacoelomorpha.md)
 
 ## お知らせ（2025/7/20～）
 2025/7/20：[珍無腸形動物の系統のページ](phylogenies/xenacoelomorpha.md)を作成しました  
