@@ -9,7 +9,8 @@ lang: ja_JP
   <span><a href="../">ホーム</a> &gt; 後生動物の系統</span>
 </div>
 <div style="text-align: right;">最終更新：2025年7月20日</div>
-<div style="text-align: right;">最終確認：2025年7月20日</div><br>
+<div style="text-align: right;">最終確認：2025年7月20日</div>
+<div style="text-align: right;">ライセンス：<a href = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja">CC BY-NC-SA 4.0</a></div><br>
 
 近年の研究から推測される後生動物Metazoa（動物界Animalia）の系統です。今回は現生分類群のみを対象としています。  
 分岐順が不明な箇所は多分岐としています。ページ下部にて、タイトルの和訳付きで参考文献を紹介しています。
@@ -411,7 +412,6 @@ lang: ja_JP
     </g>
   </g>
 </svg>
-ライセンス：[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja) 
 
 <details>
 　<summary>▶画像出典（クリックすると開きます）</summary>
