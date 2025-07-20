@@ -8,12 +8,12 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 後生動物の系統</span>
 </div>
-<div style="text-align: right;">最終更新：2025年7月20日</div>
-<div style="text-align: right;">最終確認：2025年7月20日</div>
+<div style="text-align: right;">最終更新：2025年7月21日</div>
+<div style="text-align: right;">最終確認：2025年7月21日</div>
 <div style="text-align: right;">ライセンス：<a href = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja">CC BY-NC-SA 4.0</a></div><br>
 
-近年の出版済みの研究から推測される後生動物Metazoa（動物界Animalia）の系統です。ここでは、現生分類群のみを対象としています。  
-分岐順が不明な箇所は多分岐としています。ページ下部にて、タイトルの和訳付きで参考文献を紹介しています。
+近年の出版済みの研究の結果から推察される、後生動物Metazoa（動物界Animalia）の系統です。ここでは、現生分類群のみを含めています。  
+分岐順が不明な箇所は多分岐として表しています。ページ下部にて、タイトルの和訳付きで参考文献を紹介しています。
 
 <svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 597.55 455.16">
   <defs>
@@ -453,7 +453,7 @@ Rickard Zerpe, CC BY 2.0, <a href = "https://commons.wikimedia.org/wiki/File:Tro
 Johannes Frenzel, 1892, Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Salinella_salve_Frenzel_(cropped).jpg">https://commons.wikimedia.org/wiki/File:Salinella_salve_Frenzel_(cropped).jpg</a>
 </details>
 
-## 系統関係の参考にした系統学的研究
+## 系統関係の参考文献
 Laumer et al. (2019)  
 「全ての門のゲノムサンプリングによる後生動物の系統の再検討」  
 Revisiting metazoan phylogeny with genomic sampling of all phyla  
