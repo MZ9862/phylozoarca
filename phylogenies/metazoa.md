@@ -21,7 +21,6 @@ lang: ja_JP
     <title></title>
     <style>
         body {
-            background-color: #FFFFFF;
             padding: 0 10px;
             margin: 0;
             min-width: fit-content;
