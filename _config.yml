@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+title: Phylozoarca
+description: 後生動物の系統の最新の理解を日本語でまとめることを目指すWebサイトです
+lang: ja_JP
+markdown: kramdown
+highlighter: rouge
+email: mz9862.github@gmail.com
+author:
+  name: MZ9862
+url: "https://mz9862.github.io"
+baseurl: "/phylozoarca"
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap

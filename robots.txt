@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mz9862.github.io/phylozoarca/sitemap.xml
