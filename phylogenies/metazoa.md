@@ -20,7 +20,7 @@ lang: ja_JP
 
 <details>
 　<summary>画像出典</summary>
-上から順<br>
+上から順に<br>
 Kevin Raskoff, Public domain, <a href = "https://commons.wikimedia.org/wiki/File:LightRefractsOf_comb-rows_of_ctenophore_Mertensia_ovum.jpg">https://commons.wikimedia.org/wiki/File:LightRefractsOf_comb-rows_of_ctenophore_Mertensia_ovum.jpg</a><br>
 Shane Anderson, Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Zooplankton2_300.jpg">https://commons.wikimedia.org/wiki/File:Zooplankton2_300.jpg</a><br>
 Géry PARENT, Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Oscarella_lobularis_(Schmidt,_1862).jpg">https://commons.wikimedia.org/wiki/File:Oscarella_lobularis_(Schmidt,_1862).jpg</a><br>
