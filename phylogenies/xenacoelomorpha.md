@@ -100,7 +100,7 @@ Andreas Wallberg, CC BY-NC 4.0, <a href = "https://acoela.myspecies.info/en/cate
 Marco Curini-Galletti et al., CC BY 2.5, <a href = "https://commons.wikimedia.org/wiki/File:Proporus_sp.png">https://commons.wikimedia.org/wiki/File:Proporus_sp.png</a>
 </details>
 
-## 参考にした系統学的研究
+## 系統関係の参考にした系統学的研究
 Redmond (2024)  
 「無腸動物の単系統性は、無腸類と珍渦虫動物から構成されるクレードを覆い隠す、長枝誘引によるアーティファクトである」  
 Acoelomorph flatworm monophyly is a long-branch attraction artefact obscuring a clade of Acoela and Xenoturbellida  
