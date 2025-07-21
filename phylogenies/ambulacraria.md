@@ -6,13 +6,13 @@ lang: ja_JP
 
 # 歩帯動物の系統
 <div style="text-align: right;">
-  <span><a href="../">ホーム</a> &gt; 珍無腸形動物門の系統</span>
+  <span><a href="../">ホーム</a> &gt; 歩帯動物の系統</span>
 </div>
 <div style="text-align: right;">最終更新：2025年7月21日</div>
 <div style="text-align: right;">最終確認：2025年7月21日</div>
 <div style="text-align: right;">ライセンス：<a href = "https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a></div><br>
 
-近年の出版済みの研究の結果から推察される、歩帯動物Ambulacrariaの系統です。ここでは、現生分類群のみを含めています。
+近年の出版済みの研究の結果から推察される、歩帯動物Ambulacraria（水腔動物Coelomopora）の系統です。ここでは、現生分類群のみを含めています。
 
 <svg id="_レイヤー_1" data-name="レイヤー 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 479.69 141.71">
   <defs>
