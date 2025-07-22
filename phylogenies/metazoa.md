@@ -284,7 +284,7 @@ lang: ja_JP
     <a xlink:href="https://mz9862.github.io/phylozoarca/phylogenies/ambulacraria.html"><text class="cls-26" transform="translate(299.91 184.58)" fill="blue"><tspan x="0" y="0">歩帯動</tspan><tspan class="cls-1" x="24" y="0">物</tspan><tspan x="34" y="0">Ambulacraria</tspan></text>
     <text class="cls-26" transform="translate(295.91 196.58)" fill="blue"><tspan x="0" y="0">（＝水腔動</tspan><tspan class="cls-1" x="40" y="0">物</tspan><tspan class="cls-9" x="50" y="0">Coelomopora）</tspan></text></a>
     <text class="cls-24" transform="translate(296.91 206.82)"><tspan x="0" y="0">（半索動物門＋棘皮動物門）</tspan></text>
-    <text class="cls-26" transform="translate(300.26 233.37)"><tspan x="0" y="0">脊索動</tspan><tspan class="cls-1" x="24" y="0">物</tspan><tspan x="34" y="0">Chordata</tspan></text>
+    <a xlink:href="https://mz9862.github.io/phylozoarca/phylogenies/chordata.html"><text class="cls-26" transform="translate(300.26 233.37)" fill="blue"><tspan x="0" y="0">脊索動</tspan><tspan class="cls-1" x="24" y="0">物</tspan><tspan x="34" y="0">Chordata</tspan></text></a>
     <text class="cls-24" transform="translate(297.26 243.61)"><tspan x="0" y="0">（頭索動物門＋尾索動物門＋脊椎動物門）</tspan></text>
     <a xlink:href="https://mz9862.github.io/phylozoarca/phylogenies/xenacoelomorpha.html"><text class="cls-26" transform="translate(300.26 273.07)" fill="blue"><tspan x="0" y="0">珍無腸形（珍無腸）動物</tspan><tspan class="cls-1" x="88" y="0">門</tspan><tspan x="98" y="0">Xenacoelomorpha</tspan></text></a>
     <text class="cls-24" transform="translate(297.27 283.31)"><tspan x="0" y="0">（珍渦虫類、無腸類など）</tspan></text>
