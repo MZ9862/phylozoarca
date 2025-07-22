@@ -117,5 +117,5 @@ Phylogenomics of the rarest animals: a second species of Micrognathozoa identifi
 Kristensen & Funch (2000)  
 「微顎動物：輪形動物や顎口動物のような複雑な顎を持つ新たな綱」  
 Micrognathozoa: A new class with complicated jaws like those of Rotifera and Gnathostomulida  
-[DOI](https://doi.org/10.1002/1097-4687(200010)246:1%3C1::AID-JMOR1%3E3.0.CO;2-D)
+[DOI](https://doi.org/10.1002/1097-4687(200010)246:1%3C1::AID-JMOR1%3E3.0.CO;2-D)  
 [Academia.edu全文PDF](https://www.academia.edu/1994503/Micrognathozoa_a_new_class_with_complicated_jaws_like_those_of_Rotifera_and_Gnathostomulida)
