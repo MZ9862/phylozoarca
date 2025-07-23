@@ -302,7 +302,6 @@ Velvet_worm.jpg: Geoff Gallicederivative work: B kimmel, CC BY 2.0, <a href = "h
 Kai Squires, CC BY 4.0, <a href = "https://commons.wikimedia.org/wiki/File:Euperipatoides_rowelli_59574607.jpg">https://commons.wikimedia.org/wiki/File:Euperipatoides_rowelli_59574607.jpg</a><br>
 [Photo by Arie van der Meijden] Sousa P et al., CC BY 4.0, <a href = "https://commons.wikimedia.org/wiki/File:Buthus_mariefranceae_(10.3897-zookeys.686.12206)_Figure_1.jpg">https://commons.wikimedia.org/wiki/File:Buthus_mariefranceae_(10.3897-zookeys.686.12206)_Figure_1.jpg</a><br>
 Roy L. Caldwell, Department of Integrative Biology, University of California, Berkeley, Public Domain, <a href = "https://commons.wikimedia.org/wiki/File:OdontodactylusScyllarus2.jpg">https://commons.wikimedia.org/wiki/File:OdontodactylusScyllarus2.jpg</a>
-
 </details>
 
 ## 系統関係の参考文献
