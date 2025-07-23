@@ -18,7 +18,7 @@
 - [微顎動物門Micrognathozoa](phylogenies/micrognathozoa.md)
 
 ## お知らせ（2025/7/20～）
-2025/7/22：[脱皮動物の系統のページ](phylogenies/ecdysozoa.md)を作成しました  
+2025/7/23：[脱皮動物の系統のページ](phylogenies/ecdysozoa.md)を作成しました  
 2025/7/22：[微顎動物門の系統のページ](phylogenies/micrognathozoa.md)を作成しました  
 2025/7/22：[脊索動物の系統のページ](phylogenies/chordata.md)を作成しました  
 2025/7/21：[歩帯動物の系統のページ](phylogenies/ambulacraria.md)を作成しました  
