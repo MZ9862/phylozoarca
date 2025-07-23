@@ -286,25 +286,23 @@ lang: ja_JP
 <details>
 　<summary>▶画像出典（クリックすると開きます）</summary>
 上から順に<br>
-Kevin Raskoff, Public domain, <a href = "https://commons.wikimedia.org/wiki/File:LightRefractsOf_comb-rows_of_ctenophore_Mertensia_ovum.jpg">https://commons.wikimedia.org/wiki/File:LightRefractsOf_comb-rows_of_ctenophore_Mertensia_ovum.jpg</a><br>
-Shane Anderson, Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Zooplankton2_300.jpg">https://commons.wikimedia.org/wiki/File:Zooplankton2_300.jpg</a><br>
-Géry PARENT, Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Oscarella_lobularis_(Schmidt,_1862).jpg">https://commons.wikimedia.org/wiki/File:Oscarella_lobularis_(Schmidt,_1862).jpg</a><br>
-Albert Kok at Dutch Wikipedia(Original text: Albert Kok), Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Vaasspons2.jpg">https://commons.wikimedia.org/wiki/File:Vaasspons2.jpg</a><br>
-Hans-Jürgen Osigus et al., CC BY-NC-SA 4.0, <a href = "https://www.marinespecies.org/aphia.php?p=image&pic=140912&tid=1337062">https://www.marinespecies.org/aphia.php?p=image&pic=140912&tid=1337062</a><br>
-Hans-Jürgen Osigus et al., CC BY-NC-SA 4.0, <a href = "https://www.marinespecies.org/aphia.php?p=image&pic=135471&tid=1316502">https://www.marinespecies.org/aphia.php?p=image&pic=135471&tid=1316502</a><br>
-Albert Kok at Dutch Wikipedia(Original text: albert kok), Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Hertshoon.jpg">https://commons.wikimedia.org/wiki/File:Hertshoon.jpg</a><br>
-Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Chrysaora_jelly.jpg">https://commons.wikimedia.org/wiki/File:Chrysaora_jelly.jpg</a><br>
-Gustav Paulay, CC0, <a href = "https://commons.wikimedia.org/wiki/File:Enteropneusta_USNM_1431735,_MBIO32531,_BMOO_08254_-_Specimen_Image.jpg">https://commons.wikimedia.org/wiki/File:Enteropneusta_USNM_1431735,_MBIO32531,_BMOO_08254_-_Specimen_Image.jpg</a><br>
-Marco Busdraghi, CC BY 3.0, <a href = "https://commons.wikimedia.org/wiki/File:Riccio_Melone_a_Capo_Caccia_adventurediving.it.jpg">https://commons.wikimedia.org/wiki/File:Riccio_Melone_a_Capo_Caccia_adventurediving.it.jpg</a><br>
-Campos-Dávila L et al., CC BY 4.0, <a href = "https://commons.wikimedia.org/wiki/File:Branchiostoma_californiense_(10.3897-zookeys.873.33901)_Figure_2.jpg">https://commons.wikimedia.org/wiki/File:Branchiostoma_californiense_(10.3897-zookeys.873.33901)_Figure_2.jpg</a><br>
-Collection of Hokkaido University Library, Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Takeaki_Enomoto.gif">https://commons.wikimedia.org/wiki/File:Takeaki_Enomoto.gif</a><br>
-Børve, A. and A. Hejnol., CC BY 4.0, <a href = "https://commons.wikimedia.org/wiki/File:Meara_stichopi.jpg">https://commons.wikimedia.org/wiki/File:Meara_stichopi.jpg</a><br>
-Hiroaki Nakano, CC BY 4.0, <a href = "https://commons.wikimedia.org/wiki/File:Xenoturbella_bocki.jpg">https://commons.wikimedia.org/wiki/File:Xenoturbella_bocki.jpg</a><br>
-Shunkina Ksenia, CC BY 3.0, <a href = "https://commons.wikimedia.org/wiki/File:Priapulus_caudatus.jpg">https://commons.wikimedia.org/wiki/File:Priapulus_caudatus.jpg</a><br>
-fesoj, CC BY 2.0, <a href = "https://commons.wikimedia.org/wiki/File:Fesoj_-_Papilio_machaon_(by).jpg">https://commons.wikimedia.org/wiki/File:Fesoj_-_Papilio_machaon_(by).jpg</a><br>
-Luo Y, Segers H, CC BY 3.0, <a href = "https://commons.wikimedia.org/wiki/File:Pulchritia_dorsicornuta_-_ZooKeys-342-001-g001.jpg">https://commons.wikimedia.org/wiki/File:Pulchritia_dorsicornuta_-_ZooKeys-342-001-g001.jpg</a><br>
-Rickard Zerpe, CC BY 2.0, <a href = "https://commons.wikimedia.org/wiki/File:Tropical_Pygmy_Squid_(Idiosepius_pygmaeus)_(25377304317).jpg">https://commons.wikimedia.org/wiki/File:Tropical_Pygmy_Squid_(Idiosepius_pygmaeus)_(25377304317).jpg</a><br>
-Johannes Frenzel, 1892, Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Salinella_salve_Frenzel_(cropped).jpg">https://commons.wikimedia.org/wiki/File:Salinella_salve_Frenzel_(cropped).jpg</a>
+Roberto Danovaro et al., CC BY 2.0, <a href = "https://commons.wikimedia.org/wiki/File:Spinoloricus.png">https://commons.wikimedia.org/wiki/File:Spinoloricus.png</a><br>
+Martin V. Sørensen et al., CC BY 4.0, <a href = "https://doi.org/10.1007/s13127-023-00626-7">https://doi.org/10.1007/s13127-023-00626-7</a><br>
+President and Fellows of Harvard College, CC BY-NC-SA 4.0, <a href = "https://mczbase.mcz.harvard.edu/media/1474438">https://mczbase.mcz.harvard.edu/media/1474438</a><br>
+Jan Raeker et al., CC BY-NC 4.0, <a href = "https://doi.org/10.1016/j.jcz.2024.08.005">https://doi.org/10.1016/j.jcz.2024.08.005</a><br>
+Sørensen MV & Grzelak K., CC BY 4.0, <a href = "https://commons.wikimedia.org/wiki/File:Cristaphyes_glaurung_(10.7717-peerj.5653)_Figure_7_(Panel_A).png">https://commons.wikimedia.org/wiki/File:Cristaphyes_glaurung_(10.7717-peerj.5653)_Figure_7_(Panel_A).png</a><br>
+Hiroshi Yamasaki & Shinta Fujimoto, CC BY 3.0, <a href = "https://commons.wikimedia.org/wiki/File:Echinoderes_hwiizaa.jpg">https://commons.wikimedia.org/wiki/File:Echinoderes_hwiizaa.jpg</a><br>
+Keiichi Kakui, CC BY 4.0, <a href = "https://doi.org/10.3354/dao03815">https://doi.org/10.3354/dao03815</a> (<a href = "https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/93071/1/2024_Kakui_AAM.pdf">https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/93071/1/2024_Kakui_AAM.pdf</a>)<br>
+Esv - Eduard Solà Vázquez, CC BY 3.0, <a href = "https://commons.wikimedia.org/wiki/File:Nematomorpha.JPG">https://commons.wikimedia.org/wiki/File:Nematomorpha.JPG</a><br>
+Eli T., CC BY 4.0, <a href = "https://www.inaturalist.org/photos/80144587">https://www.inaturalist.org/photos/80144587</a><br>
+Agricultural Research Service, Public domain, <a href = "https://commons.wikimedia.org/wiki/File:Soybean_cyst_nematode_and_egg_SEM.jpg">https://commons.wikimedia.org/wiki/File:Soybean_cyst_nematode_and_egg_SEM.jpg</a><br>
+Martin Vinther Sørensen, CC0, <a href = "https://commons.wikimedia.org/wiki/File:USNM_1616673_-_Florarctus_(cropped).jpeg">https://commons.wikimedia.org/wiki/File:USNM_1616673_-_Florarctus_(cropped).jpeg</a><br>
+Schokraie E et al., CC BY 2.5, <a href = "https://commons.wikimedia.org/wiki/File:SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png">https://commons.wikimedia.org/wiki/File:SEM_image_of_Milnesium_tardigradum_in_active_state_-_journal.pone.0045682.g001-2.png</a><br>
+Velvet_worm.jpg: Geoff Gallicederivative work: B kimmel, CC BY 2.0, <a href = "https://commons.wikimedia.org/wiki/File:Velvet_worm_rotated,_mirror.png">https://commons.wikimedia.org/wiki/File:Velvet_worm_rotated,_mirror.png</a><br>
+Kai Squires, CC BY 4.0, <a href = "https://commons.wikimedia.org/wiki/File:Euperipatoides_rowelli_59574607.jpg">https://commons.wikimedia.org/wiki/File:Euperipatoides_rowelli_59574607.jpg</a><br>
+[Photo by Arie van der Meijden] Sousa P et al., CC BY 4.0, <a href = "https://commons.wikimedia.org/wiki/File:Buthus_mariefranceae_(10.3897-zookeys.686.12206)_Figure_1.jpg">https://commons.wikimedia.org/wiki/File:Buthus_mariefranceae_(10.3897-zookeys.686.12206)_Figure_1.jpg</a><br>
+Roy L. Caldwell, Department of Integrative Biology, University of California, Berkeley, Public Domain, <a href = "https://commons.wikimedia.org/wiki/File:OdontodactylusScyllarus2.jpg">https://commons.wikimedia.org/wiki/File:OdontodactylusScyllarus2.jpg</a>
+
 </details>
 
 ## 系統関係の参考文献
