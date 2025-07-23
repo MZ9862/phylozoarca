@@ -14,9 +14,11 @@
 - [歩帯動物Ambulacraria](phylogenies/ambulacraria.md)
 - [脊索動物Chordata](phylogenies/chordata.md)
 - [珍無腸形動物門Xenacoelomorpha](phylogenies/xenacoelomorpha.md)
+- [脱皮動物Ecdysozoa](phylogenies/ecdysozoa.md)
 - [微顎動物門Micrognathozoa](phylogenies/micrognathozoa.md)
 
 ## お知らせ（2025/7/20～）
+2025/7/22：[脱皮動物の系統のページ](phylogenies/ecdysozoa.md)を作成しました  
 2025/7/22：[微顎動物門の系統のページ](phylogenies/micrognathozoa.md)を作成しました  
 2025/7/22：[脊索動物の系統のページ](phylogenies/chordata.md)を作成しました  
 2025/7/21：[歩帯動物の系統のページ](phylogenies/ambulacraria.md)を作成しました  
