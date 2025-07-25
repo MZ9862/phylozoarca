@@ -12,3 +12,4 @@ baseurl: "/phylozoarca"
 gems:
   - jekyll-seo-tag
   - jekyll-sitemap
+google_analytics: G-VJ70V9JYWP
