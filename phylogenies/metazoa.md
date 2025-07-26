@@ -4,7 +4,7 @@ description: 後生動物Metazoaの系統を、可能な限り最新の知見に
 lang: ja_JP
 ---
 
-# 後生動物の系統
+# 後生動物Metazoaの系統
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 後生動物Metazoaの系統</span>
 </div>

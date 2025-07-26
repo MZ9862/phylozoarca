@@ -4,7 +4,7 @@ description: 脱皮動物Ecdysozoaの系統を、可能な限り最新の知見�
 lang: ja_JP
 ---
 
-# 脱皮動物の系統
+# 脱皮動物Ecdysozoaの系統
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 脱皮動物Ecdysozoaの系統</span>
 </div>

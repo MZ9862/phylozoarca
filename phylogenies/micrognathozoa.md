@@ -4,7 +4,7 @@ description: 微顎動物門Micrognathozoaの系統を、可能な限り最新�
 lang: ja_JP
 ---
 
-# 微顎動物門の系統
+# 微顎動物門Micrognathozoaの系統
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 微顎動物門Micrognathozoaの系統</span>
 </div>

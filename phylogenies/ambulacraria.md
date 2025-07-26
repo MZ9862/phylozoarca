@@ -4,7 +4,7 @@ description: 歩帯動物Ambulacrariaの系統を、可能な限り最新の知�
 lang: ja_JP
 ---
 
-# 歩帯動物の系統
+# 歩帯動物Ambulacrariaの系統
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 歩帯動物Ambulacrariaの系統</span>
 </div>
