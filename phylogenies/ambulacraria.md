@@ -1,12 +1,12 @@
 ---
-title: 歩帯動物の系統
+title: 歩帯動物Ambulacrariaの系統
 description: 歩帯動物Ambulacrariaの系統を、可能な限り最新の知見に基づき紹介しています
 lang: ja_JP
 ---
 
 # 歩帯動物の系統
 <div style="text-align: right;">
-  <span><a href="../">ホーム</a> &gt; 歩帯動物の系統</span>
+  <span><a href="../">ホーム</a> &gt; 歩帯動物Ambulacrariaの系統</span>
 </div>
 <div style="text-align: right;">最終更新：2025年7月22日</div>
 <div style="text-align: right;">最終確認：2025年7月22日</div>
