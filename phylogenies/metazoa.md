@@ -9,7 +9,7 @@ lang: ja_JP
   <span><a href="../">ホーム</a> &gt; 後生動物Metazoaの系統</span>
 </div>
 <div style="text-align: right;">最終更新：2025年7月21日</div>
-<div style="text-align: right;">最終確認：2025年7月21日</div>
+<div style="text-align: right;">最終確認：2025年8月2日</div>
 <div style="text-align: right;">ライセンス：<a href = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja">CC BY-NC-SA 4.0</a></div><br>
 
 近年の出版済みの研究の結果から推察される、後生動物Metazoa（動物界Animalia）の系統です。ここでは、現生分類群のみを含めています。  
@@ -281,14 +281,14 @@ lang: ja_JP
     <text class="cls-24" transform="translate(297.07 124.92)"><tspan x="0" y="0">（センモウヒラムシなど）</tspan></text>
     <text class="cls-26" transform="translate(300.26 154.26)"><tspan x="0" y="0">刺胞動物</tspan><tspan class="cls-1" x="32" y="0">門</tspan><tspan x="42" y="0">Cnidaria</tspan></text>
     <text class="cls-24" transform="translate(297.26 164.49)"><tspan x="0" y="0">（サンゴ、イソギンチャク類、クラゲ類など）</tspan></text>
-    <a xlink:href="https://mz9862.github.io/phylozoarca/phylogenies/ambulacraria.html"><text class="cls-26" transform="translate(299.91 184.58)" fill="blue"><tspan x="0" y="0">歩帯動</tspan><tspan class="cls-1" x="24" y="0">物</tspan><tspan x="34" y="0">Ambulacraria</tspan></text>
-    <text class="cls-26" transform="translate(295.91 196.58)" fill="blue"><tspan x="0" y="0">（＝水腔動</tspan><tspan class="cls-1" x="40" y="0">物</tspan><tspan class="cls-9" x="50" y="0">Coelomopora）</tspan></text></a>
+    <text class="cls-26" transform="translate(299.91 184.58)"><tspan x="0" y="0">歩帯動</tspan><tspan class="cls-1" x="24" y="0">物</tspan><tspan x="34" y="0">Ambulacraria</tspan></text>
+    <text class="cls-26" transform="translate(295.91 196.58)"><tspan x="0" y="0">（＝水腔動</tspan><tspan class="cls-1" x="40" y="0">物</tspan><tspan class="cls-9" x="50" y="0">Coelomopora）</tspan></text>
     <text class="cls-24" transform="translate(296.91 206.82)"><tspan x="0" y="0">（半索動物門＋棘皮動物門）</tspan></text>
-    <a xlink:href="https://mz9862.github.io/phylozoarca/phylogenies/chordata.html"><text class="cls-26" transform="translate(300.26 233.37)" fill="blue"><tspan x="0" y="0">脊索動</tspan><tspan class="cls-1" x="24" y="0">物</tspan><tspan x="34" y="0">Chordata</tspan></text></a>
+    <text class="cls-26" transform="translate(300.26 233.37)"><tspan x="0" y="0">脊索動</tspan><tspan class="cls-1" x="24" y="0">物</tspan><tspan x="34" y="0">Chordata</tspan></text>
     <text class="cls-24" transform="translate(297.26 243.61)"><tspan x="0" y="0">（頭索動物門＋尾索動物門＋脊椎動物門）</tspan></text>
-    <a xlink:href="https://mz9862.github.io/phylozoarca/phylogenies/xenacoelomorpha.html"><text class="cls-26" transform="translate(300.26 273.07)" fill="blue"><tspan x="0" y="0">珍無腸形（珍無腸）動物</tspan><tspan class="cls-1" x="88" y="0">門</tspan><tspan x="98" y="0">Xenacoelomorpha</tspan></text></a>
+    <text class="cls-26" transform="translate(300.26 273.07)"><tspan x="0" y="0">珍無腸形（珍無腸）動物</tspan><tspan class="cls-1" x="88" y="0">門</tspan><tspan x="98" y="0">Xenacoelomorpha</tspan></text>
     <text class="cls-24" transform="translate(297.27 283.31)"><tspan x="0" y="0">（珍渦虫類、無腸類など）</tspan></text>
-    <a xlink:href="https://mz9862.github.io/phylozoarca/phylogenies/ecdysozoa.html"><text class="cls-26" transform="translate(300.25 312.47)" fill="blue"><tspan x="0" y="0">脱皮動</tspan><tspan class="cls-1" x="24" y="0">物</tspan><tspan x="34" y="0">Ecdysozoa</tspan></text></a>
+    <text class="cls-26" transform="translate(300.25 312.47)"><tspan x="0" y="0">脱皮動</tspan><tspan class="cls-1" x="24" y="0">物</tspan><tspan x="34" y="0">Ecdysozoa</tspan></text>
     <text class="cls-26" transform="translate(262.27 392.23)"><tspan x="0" y="0">？</tspan></text>
     <text class="cls-26" transform="translate(262.87 423.92)"><tspan x="0" y="0">？</tspan></text>
     <text class="cls-25" transform="translate(161.98 317.03)"><tspan x="0" y="0">前口（旧口）動物</tspan></text>
@@ -299,16 +299,18 @@ lang: ja_JP
     <text class="cls-25" transform="translate(38 131.56)"><tspan x="0" y="0">Metazoa</tspan></text>
     <text class="cls-25" transform="translate(32.43 149.29)"><tspan x="0" y="0">（＝動物界</tspan></text>
     <text class="cls-25" transform="translate(35.72 159.79)"><tspan x="0" y="0">Animalia）</tspan></text>
-    <text class="cls-24" transform="translate(297.25 322.71)"><tspan x="0" y="0">（鰓曳動物門、線形動物門、緩歩動物門、節足動物門など）</tspan></text>
-    <text class="cls-26" transform="translate(300.23 344.73)"><tspan x="0" y="0">螺旋（螺旋卵割）動物</tspan></text>
-    <text class="cls-26" transform="translate(380.23 344.73)"><tspan x="0" y="0"> </tspan></text>
-    <text class="cls-26" transform="translate(382.23 344.73)"><tspan x="0" y="0">Spiralia</tspan></text>
-    <text class="cls-26" transform="translate(296.23 356.73)"><tspan x="0" y="0">（広義の冠輪動物</tspan></text>
-    <text class="cls-26" transform="translate(360.23 356.73)"><tspan x="0" y="0"> </tspan></text>
-    <text class="cls-26" transform="translate(362.23 356.73)"><tspan x="0" y="0">Lophotrochozoa </tspan></text>
-    <text class="cls-20" transform="translate(425.19 356.73) scale(.97) skewX(-15)"><tspan x="0" y="0">sensu lato</tspan></text>
-    <text class="cls-26" transform="translate(463.27 356.73)"><tspan x="0" y="0">）</tspan></text>
-    <text class="cls-24" transform="translate(297.23 368.28)"><tspan x="0" y="0">（輪形動物門、扁形動物門、軟体動物門、環形動物門など）</tspan></text>
+    <text class="cls-24" transform="translate(297.01 322.75)"><tspan x="0" y="0">（鰓曳動物門、線形動物門、緩歩動物門、節足動物門など）</tspan></text>
+    <text class="cls-26" transform="translate(299.99 344.78)"><tspan x="0" y="0">螺旋（螺旋卵割）動物</tspan></text>
+    <text class="cls-26" transform="translate(379.99 344.78)"><tspan x="0" y="0"> </tspan></text>
+    <text class="cls-26" transform="translate(381.99 344.78)"><tspan x="0" y="0">Spiralia</tspan></text>
+    <text class="cls-26" transform="translate(295.99 356.78)"><tspan x="0" y="0">（</tspan></text>
+    <text class="cls-26" transform="translate(303.99 356.78)"><tspan x="0" y="0">＝</tspan></text>
+    <text class="cls-26" transform="translate(311.99 356.78)"><tspan x="0" y="0">広義の冠輪動物</tspan></text>
+    <text class="cls-26" transform="translate(367.99 356.78)"><tspan x="0" y="0"> </tspan></text>
+    <text class="cls-26" transform="translate(369.99 356.78)"><tspan x="0" y="0">Lophotrochozoa </tspan></text>
+    <text class="cls-20" transform="translate(432.41 356.78) scale(.97) skewX(-15)"><tspan x="0" y="0">sensu lato</tspan></text>
+    <text class="cls-26" transform="translate(470.5 356.78)"><tspan x="0" y="0">）</tspan></text>
+    <text class="cls-24" transform="translate(296.99 368.33)"><tspan x="0" y="0">（輪形動物門、扁形動物門、軟体動物門、環形動物門など）</tspan></text>
     <text class="cls-20" transform="translate(300.98 385.1) scale(.97) skewX(-15)"><tspan x="0" y="0">Jennaria </tspan></text>
     <text class="cls-26" transform="translate(335.77 385.1)"><tspan x="0" y="0">属</tspan></text>
     <text class="cls-24" transform="translate(297.98 395.01)"><tspan x="0" y="0">（1991</tspan></text>
