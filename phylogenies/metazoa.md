@@ -521,6 +521,11 @@ Tessler et al. (2022)
 Phylogenomics and the first higher taxonomy of Placozoa, an ancient and enigmatic animal phylum  
 [DOI](https://doi.org/10.3389/fevo.2022.1016357)
 
+Simakov et al. (2022)  
+「深く保存されたシンテニーと後生動物の染色体の進化」  
+Deeply conserved synteny and the evolution of metazoan chromosomes  
+[DOI](https://doi.org/10.1126/sciadv.abi5884)
+
 Juravel et al. (2023)  
 「動物の系統における難解なノードを検証するためのgenome gene contentと形態解析の探求」  
 Exploring genome gene content and morphological analysis to test recalcitrant nodes in the animal phylogeny  
