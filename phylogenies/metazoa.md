@@ -576,7 +576,7 @@ DeSalle & Tessler (2025)
 Morphological data, phylogenomics and recalcitrant nodes  
 [DOI](https://doi.org/10.1111/cla.12615)
 
-Serra Silva et al. (in press)  
+Serra Silva et al. (2025)  
 「後口動物クレードはアーティファクトか？」  
 Is the deuterostome clade an artifact?  
 [DOI](https://doi.org/10.1016/j.cub.2025.06.045)
