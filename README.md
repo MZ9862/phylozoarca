@@ -18,6 +18,7 @@
 - [微顎動物門Micrognathozoa](phylogenies/micrognathozoa.md)
 
 ## お知らせ（2025/7/20～）
+2025/9/17：[後生動物の系統のページ](phylogenies/metazoa.md)に，系統関係の参考文献を追加しました  
 2025/7/23：[脱皮動物の系統のページ](phylogenies/ecdysozoa.md)を作成しました  
 2025/7/22：[微顎動物門の系統のページ](phylogenies/micrognathozoa.md)を作成しました  
 2025/7/22：[脊索動物の系統のページ](phylogenies/chordata.md)を作成しました  

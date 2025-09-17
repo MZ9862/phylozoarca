@@ -8,8 +8,8 @@ lang: ja_JP
 <div style="text-align: right;">
   <span><a href="../">ホーム</a> &gt; 後生動物Metazoaの系統</span>
 </div>
-<div style="text-align: right;">最終更新：2025年7月21日</div>
-<div style="text-align: right;">最終確認：2025年8月2日</div>
+<div style="text-align: right;">最終更新：2025年9月17日</div>
+<div style="text-align: right;">最終確認：2025年9月17日</div>
 <div style="text-align: right;">ライセンス：<a href = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja">CC BY-NC-SA 4.0</a></div><br>
 
 近年の出版済みの研究の結果から推察される、後生動物Metazoa（動物界Animalia）の系統です。ここでは、現生分類群のみを含めています。  
@@ -486,6 +486,21 @@ Kapli & Telford (2020)
 Topology-dependent asymmetry in systematic errors affects phylogenetic placement of Ctenophora and Xenacoelomorpha  
 [DOI](https://doi.org/10.1126/sciadv.abc5162)
 
+Francis & Canfield (2020)  
+「非常に少数のサイトにより推定された系統樹は変形しうる」  
+Very few sites can reshape the inferred phylogenetic tree  
+[DOI](https://doi.org/10.7717/peerj.8865)
+
+Erives & Fritzsch (2020)  
+「初期の後生動物の進化的分岐順序を解明するための遺伝子のparalogyのスクリーニング」  
+A Screen for Gene Paralogies Delineating Evolutionary Branching Order of Early Metazoa  
+[DOI](https://doi.org/10.1534/g3.119.400951)
+
+Pandey & Braun (2021)  
+「ゲノム系統学における，タンパク質構造，タクソンサンプリング，モデル複雑性の役割：初期の動物の分岐に焦点を当てた事例研究」  
+The Roles of Protein Structure, Taxon Sampling, and Model Complexity in Phylogenomics: A Case Study Focused on Early Animal Divergences  
+[DOI](https://doi.org/10.3390/biophysica1020008)
+
 Kapli et al. (2021)  
 「後口動物に対する支持の欠如により、最初の左右相称動物の再解釈が促される」  
 Lack of support for Deuterostomia prompts reinterpretation of the first Bilateria  
@@ -536,6 +551,11 @@ Najle et al. (2023)
 Stepwise emergence of the neuronal gene expression program in early animal evolution  
 [DOI](https://doi.org/10.1016/j.cell.2023.08.027)
 
+McCarthy et al. (2023)  
+「動物の系統の根を探るデータセットにおけるオルソログのシグナルとモデル適合度の改善」  
+Improving Orthologous Signal and Model Fit in Datasets Addressing the Root of the Animal Phylogeny  
+[DOI](https://doi.org/10.1093/molbev/msac276)
+
 Whelan & Halanych (2023)  
 「入手可能なデータからは、有櫛動物は他の全ての後生動物の姉妹群として除外されない」  
 Available data do not rule out Ctenophora as the sister group to all other Metazoa  
@@ -580,6 +600,11 @@ Serra Silva et al. (2025)
 「後口動物クレードはアーティファクトか？」  
 Is the deuterostome clade an artifact?  
 [DOI](https://doi.org/10.1016/j.cub.2025.06.045)
+
+Telford (2025)  
+「動物における後口動物の枝に対する証拠の検討および脊索動物の起源の理解への意味合い」  
+Weighing the Evidence for a Deuterostome Branch of Animals and Implications for Understanding Chordate Origins  
+[DOI](https://doi.org/10.1146/annurev-ecolsys-102722-023501)
 
 ## その他参考文献
 Rieger (1991)  
