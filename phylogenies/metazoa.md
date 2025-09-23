@@ -496,6 +496,11 @@ Erives & Fritzsch (2020)
 A Screen for Gene Paralogies Delineating Evolutionary Branching Order of Early Metazoa  
 [DOI](https://doi.org/10.1534/g3.119.400951)
 
+Pandey & Braun (2020)  
+「異なるタンパク質構造の環境にあるサイトの系統解析により，後生動物の根の配置が異なる結果となる」  
+Phylogenetic Analyses of Sites in Different Protein Structural Environments Result in Distinct Placements of the Metazoan Root  
+[DOI](https://doi.org/10.3390/biology9040064)
+
 Pandey & Braun (2021)  
 「ゲノム系統学における，タンパク質構造，タクソンサンプリング，モデル複雑性の役割：初期の動物の分岐に焦点を当てた事例研究」  
 The Roles of Protein Structure, Taxon Sampling, and Model Complexity in Phylogenomics: A Case Study Focused on Early Animal Divergences  
@@ -512,7 +517,7 @@ Morphological Characters Can Strongly Influence Early Animal Relationships Infer
 [DOI](https://doi.org/10.1093/sysbio/syaa038)
 
 Redmond & McLysaght (2021)  
-「混合モデルとrecodingを用いたpartitionされたゲノム系統学により得られた、海綿動物が他の全ての動物の姉妹群であるという証拠」  
+「混合モデルとrecodingを用いた，分割されたゲノム系統学により得られた，海綿動物が他の全ての動物の姉妹群であるという証拠」  
 Evidence for sponges as sister to all other animals from partitioned phylogenomics with mixture models and recoding  
 [DOI](https://doi.org/10.1038/s41467-021-22074-7)
 
