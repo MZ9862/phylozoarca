@@ -9,7 +9,7 @@ lang: ja_JP
   <span><a href="../">ホーム</a> &gt; 後生動物Metazoaの系統</span>
 </div>
 <div style="text-align: right;">最終更新：2025年9月17日</div>
-<div style="text-align: right;">最終確認：2025年9月17日</div>
+<div style="text-align: right;">最終確認：2025年11月14日</div>
 <div style="text-align: right;">ライセンス：<a href = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja">CC BY-NC-SA 4.0</a></div><br>
 
 近年の出版済みの研究の結果から推察される、後生動物Metazoa（動物界Animalia）の系統です。ここでは、現生分類群のみを含めています。  
@@ -610,6 +610,11 @@ Telford (2025)
 「動物における後口動物の枝に対する証拠の検討および脊索動物の起源の理解への意味合い」  
 Weighing the Evidence for a Deuterostome Branch of Animals and Implications for Understanding Chordate Origins  
 [DOI](https://doi.org/10.1146/annurev-ecolsys-102722-023501)
+
+Steenwyk & King (2025)  
+「統合ゲノム系統学により，海綿動物が動物系統樹の根に位置づけられる」  
+Integrative phylogenomics positions sponges at the root of the animal tree  
+[DOI](https://doi.org/10.1126/science.adw9456)
 
 ## その他参考文献
 Rieger (1991)  

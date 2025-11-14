@@ -9,7 +9,7 @@ lang: ja_JP
   <span><a href="../">ホーム</a> &gt; 微顎動物門Micrognathozoaの系統</span>
 </div>
 <div style="text-align: right;">最終更新：2025年7月22日</div>
-<div style="text-align: right;">最終確認：2025年7月22日</div>
+<div style="text-align: right;">最終確認：2025年11月14日</div>
 
 近年の出版済みの研究の結果から推察される、微顎動物門Micrognathozoaの系統です。
 

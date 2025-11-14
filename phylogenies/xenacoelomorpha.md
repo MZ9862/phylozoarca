@@ -9,7 +9,7 @@ lang: ja_JP
   <span><a href="../">ホーム</a> &gt; 珍無腸形動物門Xenacoelomorphaの系統</span>
 </div>
 <div style="text-align: right;">最終更新：2025年7月21日</div>
-<div style="text-align: right;">最終確認：2025年7月21日</div>
+<div style="text-align: right;">最終確認：2025年11月14日</div>
 <div style="text-align: right;">ライセンス：<a href = "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja">CC BY-NC-SA 4.0</a></div><br>
 
 近年の出版済みの研究の結果から推察される、珍無腸形（珍無腸）動物門Xenacoelomorphaの系統です。  
