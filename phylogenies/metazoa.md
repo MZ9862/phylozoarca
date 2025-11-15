@@ -547,7 +547,7 @@ Deeply conserved synteny and the evolution of metazoan chromosomes
 [DOI](https://doi.org/10.1126/sciadv.abi5884)
 
 Juravel et al. (2023)  
-「動物の系統における難解なノードを検証するためのgenome gene contentと形態解析の探求」  
+「動物の系統における難解なノードを検証するためのgenome gene contentと形態の解析の探求」  
 Exploring genome gene content and morphological analysis to test recalcitrant nodes in the animal phylogeny  
 [DOI](https://doi.org/10.1371/journal.pone.0282444)
 
