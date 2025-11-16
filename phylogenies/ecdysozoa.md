@@ -212,7 +212,7 @@ lang: ja_JP
     <text class="cls-16" transform="translate(171.44 281.02)"><tspan x="0" y="0">有爪動物</tspan><tspan class="cls-1" x="32" y="0">門</tspan><tspan x="42" y="0">Onychophora</tspan></text>
     <text class="cls-14" transform="translate(168.44 291.26)"><tspan x="0" y="0">（カギムシ類）</tspan></text>
     <text class="cls-16" transform="translate(171.48 322.68)"><tspan x="0" y="0">節足動物</tspan><tspan class="cls-1" x="32" y="0">門</tspan><tspan x="42" y="0">Arthropoda</tspan></text>
-    <text class="cls-14" transform="translate(168.48 332.92)"><tspan x="0" y="0">（鋏角類、多足類、甲殻類、昆虫類）</tspan></text>
+    <text class="cls-14" transform="translate(168.48 332.92)"><tspan x="0" y="0">（鋏角類、多足類、甲殻類、六脚類）</tspan></text>
     <text class="cls-15" transform="translate(24.43 168.58)"><tspan x="0" y="0">脱皮動</tspan><tspan class="cls-1" x="21" y="0">物</tspan><tspan x="29.75" y="0">Ecdysozoa</tspan></text>
     <line class="cls-8" x1="93.63" y1="282.75" x2="162.83" y2="282.75"/>
     <line class="cls-8" x1="93.63" y1="240.98" x2="162.83" y2="240.98"/>
