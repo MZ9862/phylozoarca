@@ -616,6 +616,11 @@ Steenwyk & King (2025)
 Integrative phylogenomics positions sponges at the root of the animal tree  
 [DOI](https://doi.org/10.1126/science.adw9456)
 
+Copley (2025)  
+「海綿動物，有櫛動物，そしてシンテニーの統計的有意性」  
+Sponges, ctenophores and the statistical significance of syntenies  
+[DOI](https://doi.org/10.1093/molbev/msaf321)
+
 ## その他参考文献
 Rieger (1991)  
 「新属新種*Jennaria pulchra*、ノースカロライナの沿岸地下水から採取された砂中生活性環形動物に近縁な属の一つ」  
