@@ -1,6 +1,6 @@
 ---
 title: 脊索動物Chordataの系統
-description: 脊索動物Chordataの系統を、可能な限り最新の知見に基づき紹介しています
+description: 脊索動物Chordataの系統を、最新の知見に基づき紹介しています
 lang: ja_JP
 ---
 
@@ -170,13 +170,13 @@ Unknown photographer, Public domain, <a href = "https://commons.wikimedia.org/wi
 </details>
 
 ## 系統関係の参考文献
-Laumer et al. (2019)  
+Laumer et al. (2019, *Proceedings of the Royal Society B: Biological Sciences*)  
 「全ての門のゲノムサンプリングによる後生動物の系統の再検討」  
 Revisiting metazoan phylogeny with genomic sampling of all phyla  
 [DOI](https://doi.org/10.1098/rspb.2019.0831)
 
-## その他参考文献
-Satoh et al. (2014)  
+## その他情報の参考文献
+Satoh et al. (2014, *Proceedings of the Royal Society B: Biological Sciences*)  
 「脊索動物の進化と3門体系」  
 Chordate evolution and the three-phylum system  
 [DOI](https://doi.org/10.1098/rspb.2014.1729)

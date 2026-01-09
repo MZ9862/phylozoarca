@@ -1,6 +1,6 @@
 ---
 title: 微顎動物門Micrognathozoaの系統
-description: 微顎動物門Micrognathozoaの系統を、可能な限り最新の知見に基づき紹介しています
+description: 微顎動物門Micrognathozoaの系統を、最新の知見に基づき紹介しています
 lang: ja_JP
 ---
 
@@ -108,13 +108,13 @@ Shoyo Sato et al., CC BY 4.0, <a href = "https://doi.org/10.1098/rspb.2024.2867"
 </details>
 
 ## 系統関係の参考文献
-Sato et al. (2025)  
+Sato et al. (2025, *Proceedings of the Royal Society B: Biological Sciences*)  
 「最も希少な動物のゲノム系統学：機械学習によって特定された微顎動物2番目の種」  
 Phylogenomics of the rarest animals: a second species of Micrognathozoa identified by machine learning  
 [DOI](https://doi.org/10.1098/rspb.2024.2867)
 
-## その他参考文献
-Kristensen & Funch (2000)  
+## その他情報の参考文献
+Kristensen & Funch (2000, *Journal of Morphology*)  
 「微顎動物：輪形動物や顎口動物のような複雑な顎を持つ新たな綱」  
 Micrognathozoa: A new class with complicated jaws like those of Rotifera and Gnathostomulida  
 [DOI](https://doi.org/10.1002/1097-4687(200010)246:1%3C1::AID-JMOR1%3E3.0.CO;2-D)  

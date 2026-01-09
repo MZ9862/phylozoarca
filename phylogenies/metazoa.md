@@ -1,6 +1,6 @@
 ---
 title: 後生動物Metazoaの系統
-description: 後生動物Metazoaの系統を、可能な限り最新の知見に基づき紹介しています
+description: 後生動物Metazoaの系統を、最新の知見に基づき紹介しています
 lang: ja_JP
 ---
 
@@ -456,193 +456,198 @@ Johannes Frenzel, 1892, Public domain, <a href = "https://commons.wikimedia.org/
 </details>
 
 ## 系統関係の参考文献
-Laumer et al. (2019)  
+Laumer et al. (2019, *Proceedings of the Royal Society B: Biological Sciences*)  
 「全ての門のゲノムサンプリングによる後生動物の系統の再検討」  
 Revisiting metazoan phylogeny with genomic sampling of all phyla  
 [DOI](https://doi.org/10.1098/rspb.2019.0831)
 
-Philippe et al. (2019)  
+Philippe et al. (2019, *Current Biology*)  
 「系統誤差の予期される影響を軽減することで、珍無腸形動物と歩帯動物の姉妹群関係が支持される」  
 Mitigating Anticipated Effects of Systematic Errors Supports Sister-Group Relationship between Xenacoelomorpha and Ambulacraria  
 [DOI](https://doi.org/10.1016/j.cub.2019.04.009)
 
-Marlétaz et al. (2019)  
+Marlétaz et al. (2019, *Current Biology*)  
 「螺旋動物の新しい系統により、謎めいたヤムシ類が担顎動物の中に位置付けられる」  
 A New Spiralian Phylogeny Places the Enigmatic Arrow Worms among Gnathiferans  
 [DOI](https://doi.org/10.1016/j.cub.2018.11.042)
 
-Pett et al. (2019)  
+Pett et al. (2019, *Molecular Biology and Evolution*)  
 「後生動物のgene contentのゲノム系統解析における相同性とorthologyの役割」  
 The Role of Homology and Orthology in the Phylogenomic Analysis of Metazoan Gene Content  
 [DOI](https://doi.org/10.1093/molbev/msz013)
 
-Zhao et al. (2019)  
+Zhao et al. (2019, *Current Biology*)  
 「カンブリア紀の固着性の懸濁摂食のステム有櫛動物およびクシクラゲ類のボディプランの進化」  
 Cambrian Sessile, Suspension Feeding Stem-Group Ctenophores and Evolution of the Comb Jelly Body Plan  
 [DOI](https://doi.org/10.1016/j.cub.2019.02.036)
 
-Kapli & Telford (2020)  
+Kapli & Telford (2020, *Science Advances*)  
 「系統誤差における樹形依存の非対称性が有櫛動物と珍無腸形動物の系統的配置に影響を与える」  
 Topology-dependent asymmetry in systematic errors affects phylogenetic placement of Ctenophora and Xenacoelomorpha  
 [DOI](https://doi.org/10.1126/sciadv.abc5162)
 
-Francis & Canfield (2020)  
+Francis & Canfield (2020, *PeerJ*)  
 「非常に少数のサイトにより推定された系統樹は変形しうる」  
 Very few sites can reshape the inferred phylogenetic tree  
 [DOI](https://doi.org/10.7717/peerj.8865)
 
-Erives & Fritzsch (2020)  
+Erives & Fritzsch (2020, *G3 Genes|Genomes|Genetics*)  
 「初期の後生動物の進化的分岐順序を解明するための遺伝子のparalogyのスクリーニング」  
 A Screen for Gene Paralogies Delineating Evolutionary Branching Order of Early Metazoa  
 [DOI](https://doi.org/10.1534/g3.119.400951)
 
-Pandey & Braun (2020)  
+Pandey & Braun (2020, *Biology*)  
 「異なるタンパク質構造の環境にあるサイトの系統解析により，後生動物の根の配置が異なる結果となる」  
 Phylogenetic Analyses of Sites in Different Protein Structural Environments Result in Distinct Placements of the Metazoan Root  
 [DOI](https://doi.org/10.3390/biology9040064)
 
-Pandey & Braun (2021)  
+Pandey & Braun (2021, *Biophysica*)  
 「ゲノム系統学における，タンパク質構造，タクソンサンプリング，モデル複雑性の役割：初期の動物の分岐に焦点を当てた事例研究」  
 The Roles of Protein Structure, Taxon Sampling, and Model Complexity in Phylogenomics: A Case Study Focused on Early Animal Divergences  
 [DOI](https://doi.org/10.3390/biophysica1020008)
 
-Kapli et al. (2021)  
+Kapli et al. (2021, *Science Advances*)  
 「後口動物に対する支持の欠如により、最初の左右相称動物の再解釈が促される」  
 Lack of support for Deuterostomia prompts reinterpretation of the first Bilateria  
 [DOI](https://doi.org/10.1126/sciadv.abe2741)
 
-Neumann et al. (2021)  
+Neumann et al. (2021, *Systematic Biology*)  
 「形態形質は、ゲノム系統学的データセットから推定される初期の動物の関係に強い影響を与えうる」  
 Morphological Characters Can Strongly Influence Early Animal Relationships Inferred from Phylogenomic Data Sets  
 [DOI](https://doi.org/10.1093/sysbio/syaa038)
 
-Redmond & McLysaght (2021)  
+Redmond & McLysaght (2021, *Nature Communications*)  
 「混合モデルとrecodingを用いた，分割されたゲノム系統学により得られた，海綿動物が他の全ての動物の姉妹群であるという証拠」  
 Evidence for sponges as sister to all other animals from partitioned phylogenomics with mixture models and recoding  
 [DOI](https://doi.org/10.1038/s41467-021-22074-7)
 
-Li et al. (2021)  
+Li et al. (2021, *Molecular Biology and Evolution*)  
 「動物の生命の樹に根を付ける」  
 Rooting the Animal Tree of Life  
 [DOI](https://doi.org/10.1093/molbev/msab170)
 
-Mulhair et al. (2022)  
+Mulhair et al. (2022, *Current Biology*)  
 「人工的なシグナルをフィルタリングすることで、動物の生命の樹における珍無腸形動物と歩帯動物の姉妹群関係に対する支持が増加する」  
 Filtering artifactual signal increases support for Xenacoelomorpha and Ambulacraria sister relationship in the animal tree of life  
 [DOI](https://doi.org/10.1016/j.cub.2022.10.036)
 
-Giacomelli et al. (2022)  
+Giacomelli et al. (2022, *iScience*)  
 「アミノ酸recodingにより、生命の樹の難解なノードを解決する」  
 Resolving tricky nodes in the tree of life through amino acid recoding  
 [DOI](https://doi.org/10.1016/j.isci.2022.105594)
 
-Tessler et al. (2022)  
+Tessler et al. (2022, *Frontiers in Ecology and Evolution*)  
 「太古の謎めいた動物門、平板動物門のゲノム系統学と最初の高次分類」  
 Phylogenomics and the first higher taxonomy of Placozoa, an ancient and enigmatic animal phylum  
 [DOI](https://doi.org/10.3389/fevo.2022.1016357)
 
-Simakov et al. (2022)  
+Simakov et al. (2022, *Science Advances*)  
 「深く保存されたシンテニーと後生動物の染色体の進化」  
 Deeply conserved synteny and the evolution of metazoan chromosomes  
 [DOI](https://doi.org/10.1126/sciadv.abi5884)
 
-Juravel et al. (2023)  
+Juravel et al. (2023, *PLoS ONE*)  
 「動物の系統における難解なノードを検証するためのgenome gene contentと形態の解析の探求」  
 Exploring genome gene content and morphological analysis to test recalcitrant nodes in the animal phylogeny  
 [DOI](https://doi.org/10.1371/journal.pone.0282444)
 
-Najle et al. (2023)  
+Najle et al. (2023, *Cell*)  
 「動物の初期進化におけるニューロンの遺伝子発現プログラムの段階的出現」   
 Stepwise emergence of the neuronal gene expression program in early animal evolution  
 [DOI](https://doi.org/10.1016/j.cell.2023.08.027)
 
-McCarthy et al. (2023)  
+McCarthy et al. (2023, *Molecular Biology and Evolution*)  
 「動物の系統の根を探るデータセットにおけるオルソログのシグナルとモデル適合度の改善」  
 Improving Orthologous Signal and Model Fit in Datasets Addressing the Root of the Animal Phylogeny  
 [DOI](https://doi.org/10.1093/molbev/msac276)
 
-Whelan & Halanych (2023)  
+Whelan & Halanych (2023, *Nature Communications*)  
 「入手可能なデータからは、有櫛動物は他の全ての後生動物の姉妹群として除外されない」  
 Available data do not rule out Ctenophora as the sister group to all other Metazoa  
 [DOI](https://doi.org/10.1038/s41467-023-36151-6)
 
-Redmond & McLysaght (2023)  
+Redmond & McLysaght (2023, *Nature Communications*)  
 「『入手可能なデータからは、有櫛動物は他の全ての後生動物の姉妹群として除外されない』への返信」  
 Reply to: Available data do not rule out Ctenophora as the sister group to all other Metazoa  
 [DOI](https://doi.org/10.1038/s41467-023-36152-5)
 
-Schultz et al. (2023)  
+Schultz et al. (2023, *Nature*)  
 「古代の遺伝子の連鎖により、有櫛動物が他の動物の姉妹群として支持される」  
 Ancient gene linkages support ctenophores as sister to other animals  
 [DOI](https://doi.org/10.1038/s41586-023-05936-6)
 
-Redmond (2024)  
+Redmond (2024, *Proceedings of the Royal Society B: Biological Sciences*)  
 「無腸動物の単系統性は、無腸類と珍渦虫類から構成されるクレードを覆い隠す、長枝誘引によるアーティファクトである」  
 Acoelomorph flatworm monophyly is a long-branch attraction artefact obscuring a clade of Acoela and Xenoturbellida  
 [DOI](https://doi.org/10.1098/rspb.2024.0329)
 
-Liu et al. (2024)  
+Liu et al. (2024, *PLOS Biology*)  
 「分類群豊富でゲノム規模なオピストコンタの系統」  
 A taxon-rich and genome-scale phylogeny of Opisthokonta  
 [DOI](https://doi.org/10.1371/journal.pbio.3002794)
 
-Lin et al. (2024)  
+Lin et al. (2024, *PLOS Biology*)  
 「2つの半索動物の染色体レベルのゲノムアセンブリにより、後口動物の起源と染色体進化についての新たな洞察が得られる」  
 Chromosome-level genome assemblies of 2 hemichordates provide new insights into deuterostome origin and chromosome evolution  
 [DOI](https://doi.org/10.1371/journal.pbio.3002661)
 
-Schiffer et al. (2024)  
+Schiffer et al. (2024, *eLife*)  
 「珍無腸形動物の蠕虫*Xenoturbella bocki*のゲノムから得られる動物の初期進化についての洞察」  
 Insights into early animal evolution from the genome of the xenacoelomorph worm *Xenoturbella bocki*  
 [DOI](https://doi.org/10.7554/eLife.94948)
 
-DeSalle & Tessler (2025)  
+DeSalle & Tessler (2025, *Cladistics*)  
 「形態データ、ゲノム系統学および難解なノード」  
 Morphological data, phylogenomics and recalcitrant nodes  
 [DOI](https://doi.org/10.1111/cla.12615)
 
-Serra Silva et al. (2025)  
+Serra Silva et al. (2025, *Current Biology*)  
 「後口動物クレードはアーティファクトか？」  
 Is the deuterostome clade an artifact?  
 [DOI](https://doi.org/10.1016/j.cub.2025.06.045)
 
-Telford (2025)  
+Telford (2025, *Annual Review of Ecology, Evolution, and Systematics*)  
 「動物における後口動物の枝に対する証拠の検討および脊索動物の起源の理解への意味合い」  
 Weighing the Evidence for a Deuterostome Branch of Animals and Implications for Understanding Chordate Origins  
 [DOI](https://doi.org/10.1146/annurev-ecolsys-102722-023501)
 
-Steenwyk & King (2025)  
+Steenwyk & King (2025, *Science*)  
 「統合ゲノム系統学により，海綿動物が動物系統樹の根に位置づけられる」  
 Integrative phylogenomics positions sponges at the root of the animal tree  
 [DOI](https://doi.org/10.1126/science.adw9456)
 
-Copley (2025)  
+Copley (2025, *Molecular Biology and Evolution*)  
 「海綿動物，有櫛動物，そしてシンテニーの統計的有意性」  
 Sponges, ctenophores and the statistical significance of syntenies  
 [DOI](https://doi.org/10.1093/molbev/msaf321)
 
-Whelan (2025)  
+Whelan (2025, *Science*)  
 「『統合ゲノム系統学』は誤差の要因を統合してしまっている」  
 “Integrative Phylogenomics” Integrates Sources of Error  
 [DOI](https://doi.org/10.1126/science.adw9456#elettersSection)
 
-## その他参考文献
-Rieger (1991)  
+Dunn et al. (2025, *Science*)  
+「『統合ゲノム系統学により，海綿動物が動物系統樹の根に位置づけられる』の再考」  
+Re. Integrative phylogenomics positions sponges at the root of the animal tree  
+[DOI](https://doi.org/10.1126/science.adw9456#elettersSection)
+
+## その他情報の参考文献
+Rieger (1991, *Berichte des naturwissenschaftlichen-medizinischen Verein Innsbruck*)  
 「新属新種*Jennaria pulchra*、ノースカロライナの沿岸地下水から採取された砂中生活性環形動物に近縁な属の一つ」  
 *Jennaria pulchra*, nov. gen. nov. spec, eine den psammobionten Anneliden nahestehende Gattung aus dem Küstengrundwasser von North Carolina  
 [PDF直リンク](https://www.zobodat.at/pdf/BERI_78_0203-0215.pdf)
 
-Zrzavý (2003)  
+Zrzavý (2003, *Zoologica Scripta*)  
 「腹毛動物と後生動物の系統」  
 Gastrotricha and metazoan phylogeny  
 [DOI](https://doi.org/10.1046/j.1463-6409.2003.00104.x)
 
-Giribet & Edgecombe (2020)  
+Giribet & Edgecombe (2020, Princeton University Press)  
 「無脊椎動物の生命の樹」  
 The Invertebrate Tree of Life  
 [DOI](https://doi.org/10.1515/9780691197067)
 
-Tihelka & Cai (2021)  
+Tihelka & Cai (2021, *Current Biology*)  
 「*Salinella*」  
 *Salinella*  
 [DOI](https://doi.org/10.1016/j.cub.2021.07.013)

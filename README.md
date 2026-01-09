@@ -1,13 +1,19 @@
 # Phylozoarca
+
+<div style="text-align: right;">
+  中の人：Hoyaboya<br>
+  <a href="https://x.com/Hoyaboya11">X</a>・<a href="https://bsky.app/profile/hoyaboya1.bsky.social">Bluesky</a>
+</div>
+
 本サイトでは、最新の研究に基づいた後生動物（動物）の系統の理解を日本語で発信しています。一般の方や研究者の方が、後生動物の系統の最新の理解を知りたいときに、とりあえずここを参照すれば良いという状態を目指したいです。
 
-手始めに、いくつかの分類群の系統をまとめています。今後多くの分類群へ拡充する予定です。
+手始めに、いくつかの分類群の系統をまとめています。
 
 論文を書く際などに参照した場合、もし良ければ謝辞等に本サイトを参考にした旨を明記していただければ幸いです。
 
 何か誤りや問題、ご意見、管理人へのご連絡などがありましたら、[GitHub Issues](https://github.com/MZ9862/phylozoarca/issues)でissueを作成するか、メール（<mz9862.github@gmail.com>）をしていただければ幸いです。
 
-姉妹サイト、[MetaZoo JP](https://mz9862.github.io/metazoo-jp/)では、後生動物の初期の系統・進化に関する論文の紹介などを行っています。こちらについても是非よろしくお願いいたします。
+姉妹サイト、[MetaZoo JP](https://mz9862.github.io/metazoo-jp/)では、後生動物の初期の系統・進化に関する文献の紹介などを行っています。こちらについてもよろしくお願いいたします。
 
 ## 系統樹リスト
 - [後生動物Metazoa](phylogenies/metazoa.md)

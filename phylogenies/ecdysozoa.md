@@ -1,6 +1,6 @@
 ---
 title: 脱皮動物Ecdysozoaの系統
-description: 脱皮動物Ecdysozoaの系統を、可能な限り最新の知見に基づき紹介しています
+description: 脱皮動物Ecdysozoaの系統を、最新の知見に基づき紹介しています
 lang: ja_JP
 ---
 
@@ -305,47 +305,47 @@ Roy L. Caldwell, Department of Integrative Biology, University of California, Be
 </details>
 
 ## 系統関係の参考文献
-Laumer et al. (2019)  
+Laumer et al. (2019, *Proceedings of the Royal Society B: Biological Sciences*)  
 「全ての門のゲノムサンプリングによる後生動物の系統の再検討」  
 Revisiting metazoan phylogeny with genomic sampling of all phyla  
 [DOI](https://doi.org/10.1098/rspb.2019.0831)
 
-Marlétaz et al. (2019)  
+Marlétaz et al. (2019, *Current Biology*)  
 「螺旋動物の新しい系統により、謎めいたヤムシ類が担顎動物の中に位置付けられる」  
 A New Spiralian Phylogeny Places the Enigmatic Arrow Worms among Gnathiferans  
 [DOI](https://doi.org/10.1016/j.cub.2018.11.042)
 
-Smythe et al. (2019)  
+Smythe et al. (2019, *BMC Ecology and Evolution*)  
 「自由生活性の線形動物のゲノム系統学的サンプリングの改善により、高次の線形動物の系統の解像度が向上する」  
 Improved phylogenomic sampling of free-living nematodes enhances resolution of higher-level nematode phylogeny  
 [DOI](https://doi.org/10.1186/s12862-019-1444-x)
 
-Herranz et al. (2022)  
+Herranz et al. (2022, *Molecular Phylogenetics and Evolution*)  
 「マッドドラゴン（動吻動物）のゲノム系統解析」  
 Phylogenomic analyses of mud dragons (Kinorhyncha)  
 [DOI](https://doi.org/10.1016/j.ympev.2021.107375)
 
-Howard et al. (2022)  
+Howard et al. (2022, *Journal of the Geological Society*)  
 「脱皮動物のエディアカラン紀の起源：化石とゲノム系統学的データを統合する」  
 The Ediacaran origin of Ecdysozoa: integrating fossil and phylogenomic data  
 [DOI](https://doi.org/10.1144/jgs2021-107)
 
-Wu et al. (2023)  
+Wu et al. (2023, *Biology Letters*)  
 「汎節足動物の関係の耐え難い不確実性」  
 The unbearable uncertainty of panarthropod relationships  
 [DOI](https://doi.org/10.1098/rsbl.2022.0497)
 
-Smith et al. (2024)  
+Smith et al. (2024, *Nature*)  
 「カンブリア紀の真節足動物の幼体の臓器系」  
 Organ systems of a Cambrian euarthropod larva  
 [DOI](https://doi.org/10.1038/s41586-024-07756-8)
 
-Raeker et al. (2025)  
+Raeker et al. (2025, *Molecular Phylogenetics and Evolution*)  
 「大きいもの、小さいもの、奇妙なもの：現生鰓曳動物のゲノム系統解析」  
 The big, the small and the weird: A phylogenomic analysis of extant Priapulida  
 [DOI](https://doi.org/10.1016/j.ympev.2025.108297)
 
-Giacomelli et al. (2025)  
+Giacomelli et al. (2025, *Genome Biology and Evolution*)  
 「CAT-posterior mean site frequenciesにより最尤法における系統的モデル化が改善され、緩歩動物が有爪動物＋節足動物の姉妹群として解き明かされる」  
 CAT-Posterior Mean Site Frequencies Improves Phylogenetic Modeling Under Maximum Likelihood and Resolves Tardigrada as the Sister of Arthropoda Plus Onychophora  
 [DOI](https://doi.org/10.1093/gbe/evae273)

@@ -1,6 +1,6 @@
 ---
 title: 珍無腸形動物門Xenacoelomorphaの系統
-description: 珍無腸形動物門Xenacoelomorphaの系統を、可能な限り最新の知見に基づき紹介しています
+description: 珍無腸形動物門Xenacoelomorphaの系統を、最新の知見に基づき紹介しています
 lang: ja_JP
 ---
 
@@ -177,13 +177,13 @@ Marco Curini-Galletti et al., CC BY 2.5, <a href = "https://commons.wikimedia.or
 </details>
 
 ## 系統関係の参考文献
-Redmond (2024)  
+Redmond (2024, *Proceedings of the Royal Society B: Biological Sciences*)  
 「無腸動物の単系統性は、無腸類と珍渦虫動物から構成されるクレードを覆い隠す、長枝誘引によるアーティファクトである」  
 Acoelomorph flatworm monophyly is a long-branch attraction artefact obscuring a clade of Acoela and Xenoturbellida  
 [DOI](https://doi.org/10.1098/rspb.2024.0329)
 
-## その他参考文献
-Redmond (2024)  
+## その他情報の参考文献
+Redmond (2024, *Proceedings of the Royal Society B: Biological Sciences*)  
 「無腸動物の単系統性は、無腸類と珍渦虫動物から構成されるクレードを覆い隠す、長枝誘引によるアーティファクトである」  
 Acoelomorph flatworm monophyly is a long-branch attraction artefact obscuring a clade of Acoela and Xenoturbellida  
 [DOI](https://doi.org/10.1098/rspb.2024.0329)
