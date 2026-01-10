@@ -1,8 +1,7 @@
 # Phylozoarca
 
 <div style="text-align: right;">
-  中の人：Hoyaboya<br>
-  <a href="https://x.com/Hoyaboya11">X</a>・<a href="https://bsky.app/profile/hoyaboya1.bsky.social">Bluesky</a>
+  中の人：Hoyaboya<br>（<a href="https://x.com/Hoyaboya11">X</a>・<a href="https://bsky.app/profile/hoyaboya1.bsky.social">Bluesky</a>）
 </div>
 
 本サイトでは、最新の研究に基づいた後生動物（動物）の系統の理解を日本語で発信しています。一般の方や研究者の方が、後生動物の系統の最新の理解を知りたいときに、とりあえずここを参照すれば良いという状態を目指したいです。
