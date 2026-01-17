@@ -631,6 +631,11 @@ Dunn et al. (2025, *Science*)
 Re. Integrative phylogenomics positions sponges at the root of the animal tree  
 [DOI](https://doi.org/10.1126/science.adw9456#elettersSection)
 
+Steenwyk & King (2026, *Science*)  
+「Dunn et al.によるeLetterへの返信」  
+Response to Dunn et al. eLetter  
+[DOI](https://doi.org/10.1126/science.adw9456#elettersSection)
+
 ## その他情報の参考文献
 Rieger (1991, *Berichte des naturwissenschaftlichen-medizinischen Verein Innsbruck*)  
 「新属新種*Jennaria pulchra*、ノースカロライナの沿岸地下水から採取された砂中生活性環形動物に近縁な属の一つ」  
