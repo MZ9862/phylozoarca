@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ===== Custom Notice Style ===== */
+
+.notice {
+  background-color: #fff3cd;
+  border-left: 6px solid #f0ad4e;
+  padding: 1.2em;
+  margin-bottom: 1.5em;
+  line-height: 1.6;
+}
+
+.notice p {
+  margin: 0.5em 0;
+}
